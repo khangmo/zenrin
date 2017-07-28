@@ -1,0 +1,22 @@
+{
+  "name": "react-zenrin",
+  "version": "1.0.0",
+  "description": "API-about-zenrin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khangmo/zenrin.git"
+  },
+  "keywords": [
+    "zenrin-api"
+  ],
+  "author": "Khang Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khangmo/zenrin/issues"
+  },
+  "homepage": "https://github.com/khangmo/zenrin#readme"
+}
